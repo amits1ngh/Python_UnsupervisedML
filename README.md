@@ -1,1 +1,3 @@
-# Python_UnsupervisedML
+# Python codes for machine learning
+*Kmeans
+*SVM
